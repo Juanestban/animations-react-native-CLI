@@ -7,15 +7,15 @@
 
 ## Iniciar Metro
 
-### ***`react-native start`*** || ***`npm start`***
+***`react-native start`*** || ***`npm start`***
 
 ## Iniciar la construccion del proyecto
 
-### ***`react-native run-android`*** || ***`npm run android`***
+***`react-native run-android`*** || ***`npm run android`***
 
 ## Vincular fuentes de texto u otros assets para ios y android
 
-### ***`react-native link`***
+***`react-native link`***
 
 ## Acceder de forma mas rapida a cualquier parte del componente nombrando el package.json
 
